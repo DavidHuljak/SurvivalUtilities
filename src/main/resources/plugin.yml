@@ -1,0 +1,11 @@
+name: SurvivalAddons
+version: ${project.version}
+main: me.huljak.survivaladdons.Main
+api-version: 1.16
+authors: [ DavidHuljak ]
+description: Package of features that will improve your game experience.
+commands:
+  coord:
+    aliases:
+      - coords
+      - coordinates

@@ -1,0 +1,14 @@
+#Prefix that is used in entire plugin
+prefix: '[SurvivalAddons]'
+#MOTD will show up in the server list
+motd: '&fThis server is using &6&lSurvivalAddons'
+#Message that will show up on when player join
+join-message:
+  - '&fThis server is using &6&lSurvivalAddons&f.'
+  - '&fFeel free to edit this message in config.'
+
+#Ticks for updating the coordinates
+ticks: 2
+
+#List of players that have enabled coordinates
+
